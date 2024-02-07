@@ -1,0 +1,22 @@
+{
+  "name": "expy",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasheedtobi/Expy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasheedtobi/Expy/issues"
+  },
+  "homepage": "https://github.com/rasheedtobi/Expy#readme",
+  "description": "",
+  "type": "module"
+}
